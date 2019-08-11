@@ -11,11 +11,9 @@
 一般都要phd，papers, advisor,reference 需要能独当一面
 ```
 
-Goole Brain\(Google earch\), FAIR, DeepMind 
-
-MSR\(微软研究院\), Adobe Reseach... 
-
-Baidu Research, Alibaba iDST, Tencent AI, Toutiao AI\(今日头条\)
+* Goole Brain\(Google earch\), FAIR, DeepMind 
+* MSR\(微软研究院\), Adobe Reseach... 
+* Baidu Research, Alibaba iDST, Tencent AI, Toutiao AI\(今日头条\)
 
 #### 算法使用者（约80%）
 
